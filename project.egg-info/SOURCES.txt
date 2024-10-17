@@ -1,0 +1,13 @@
+setup.py
+deploy1/__init__.py
+deploy1/items.py
+deploy1/middlewares.py
+deploy1/pipelines.py
+deploy1/settings.py
+deploy1/spiders/__init__.py
+deploy1/spiders/quote.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
